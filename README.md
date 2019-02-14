@@ -3,9 +3,9 @@
 
 ---
 
-* [PART 1](https://imogenerative.github.io/markov-shrugged/markov-shrugged-part-1)
-* [PART 2](https://imogenerative.github.io/markov-shrugged/markov-shrugged-part-2)
-* [PART 3](https://imogenerative.github.io/markov-shrugged/markov-shrugged-part-3)
+* [PART 1](https://scoutquinn.github.io/markov-shrugged/markov-shrugged-part-1)
+* [PART 2](https://scoutquinn.github.io/markov-shrugged/markov-shrugged-part-2)
+* [PART 3](https://scoutquinn.github.io/markov-shrugged/markov-shrugged-part-3)
 
 ---
 
